@@ -1,8 +1,6 @@
 # CYBDO.ME
 
-***This site isn't copyrighted at all so anyone can use anything I've got here, however external references could have their own copyrighted terms so check those out.***
-
-👋 Hi, I’m @Cybdo
+👋 Hi there, I’m @Cybdo/@Cybdo6236
 
 - 👀 I’m interested in all things technology
 - 🌱 I’m currently learning everything in secondary school (Year 8)
