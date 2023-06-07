@@ -8,7 +8,7 @@
 
 Ok that's GitHub's template done, here's a few more bits about me:
 
-- I go by Ryan and Cybdo (Pronounced Sigh-b-do)
+- I go by Ryan and Cybdo (Pronounced Sigh-bdo)
 - My pronouns are He/They
 - I am male
 - I am Australian (AEDT)
