@@ -6944,7 +6944,7 @@ px`,
           var items = $$('.deferred'),loadHandler, enterHandler;
           loadHandler = function() {
             var i = this,p = this.parentElement;
-            if (i.dataset.src !== 'done')return;
+            //if (i.dataset.src !== 'done')return;
             if (Date.now() - i._startLoad < 375) {
               p.classList.remove('loading');
               p.style.backgroundImage = 'none';
