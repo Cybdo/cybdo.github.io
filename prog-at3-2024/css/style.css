@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  height: 100%;
+}
+
+#heading {
+  height: 140%;
+  width: 140%;
+  overflow: hidden;
+  position: fixed;
+}
+#bgvid {
+  min-width: 100%;
+  z-index: -1;
+  offset-anchor: top;
+ object-fit: cover;
+  position: fixed;
+  overflow: hidden;
+}
+
+h1 {
+    position: absolute;
+    text-align: center;
+    font-size: 4em;
+    z-index: 9999;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: rgba(47,47,47,0.5);
+    padding: 20px;
+  border-radius: 10px;
+}
+
+#spacer {height: 100%; width: 100%;}
+
+#content {
+  background: white;
+  width: 96%;
+  height: auto;
+  z-index: 6;
+  padding: 2%;
+}
+
+img {
+  height: auto;
+  border-radius: 10px;
+  border-color: white;
+  border-style: solid;
+  padding: 10px;
+  margin-left: auto;
+}
+
+#floating {
+  color: #DDDDDD;
+  background-color: cornflowerblue;
+  background-size: cover;
+  width: 95%;
+  border-radius: 10px;
+  height: 440px;
+  margin-left: 31px;
+  z-index: 5;
+  text-align: center;
+
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h2 {
+  font-size: 30px;
+  padding: 20px 20px 0;
+}
+
+p,ul {
+
+  font-size: 20px;
+  line-height: 30px;
+  margin-top: 0;
+  margin-left: 20px;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+}
+
+.image-container {
+  margin-left: auto;
+}
+
+.footer{
+  background-color: rgba(03,03,03,0.5);
+  color: white;
+  text-align: center;
+  padding: 20px 10px 10px;
+  bottom: 0;
+  width: 100%;
+  font-size: 20px;
+}
+
+
+html {height: 100%; width: 100%; margin: 0;}
+
+
